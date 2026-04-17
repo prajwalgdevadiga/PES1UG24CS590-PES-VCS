@@ -12,6 +12,7 @@
 #include <fcntl.h>
 //1
 //2
+//3
 
 // Forward declarations
 int object_write(ObjectType type, const void *data, size_t len, ObjectID *id_out);

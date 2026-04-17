@@ -10,6 +10,7 @@
 //   "100644 hello.txt\0" followed by 32 raw bytes of SHA-256
 //1
 //2
+//3
 #include "index.h"
 #include "pes.h"
 #include "tree.h"

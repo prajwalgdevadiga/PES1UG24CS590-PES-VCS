@@ -5,7 +5,7 @@
 **Platform:** Ubuntu 24.04
 
 ---
-//1
+
 ## Build Instructions
 
 ```bash
